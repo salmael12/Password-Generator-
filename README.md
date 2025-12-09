@@ -1,4 +1,4 @@
-# Password-Generator-
+## Password-Generator
 A simple web-based Password Generator built with Python
 
 ## This tool allows you to automatically create strong and secure passwords using a combination of:
